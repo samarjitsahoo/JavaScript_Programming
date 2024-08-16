@@ -1,5 +1,5 @@
 # JavaScript_Programming
 <div align="center">
-<img src="Assets/javascript-programming.png" width="150" height="auto">
+<img src="Assets/javascript-programming.png" width="150" height="150">
 </div>
 <p>In this repository, I embark on an exciting adventure to elevate my JavaScript programming skills. This space is not just a repository but a lively playground, meticulously designed to challenge and expand my abilities. It features a wide range of hands-on projects, from intricate applications to innovative solutions, alongside stimulating coding challenges and immersive practical exercises. Each commit and code review represents a significant milestone in my pursuit of JavaScript mastery, capturing the essence of iterative learning and growth. This repository is a testament to my dedication, showcasing my journey through complex problems and creative coding solutions. As I explore the vast capabilities of JavaScript, I invite others to join me in this dynamic exploration, where every contribution and insight brings us closer to mastering this powerful language.</p>
