@@ -1,4 +1,4 @@
-# JavaScript_Programming
+# JavaScript Programming
 <div align="center">
 <img src="Assets/javascript-programming.png" width="150" height="150">
 </div>
